@@ -1,2 +1,2 @@
-# Data-Analysis
-Notebooks of analyzed data using Python and other projects.
+# Sales-Project
+Pbix file of the sales dashboard PowerBI Project
